@@ -4,7 +4,7 @@ console.log(winningNumbers[2]);
 // Question 2
 var vegetables = ["rice", "potatoes", "porridge", "cake", "spinach"];
 vegetables.push("bell peppers");
-console.log(vegetables);
+console.log(vegetables.length);
 // Question 3
 var randomThings = ["pumpkin", false, 23, true, "tomato"];
 for (i = 0; i < randomThings.length; i++) {
